@@ -9,7 +9,7 @@
     "serialNumber": "1",
     "typeSpecification": {
         "seriesName": "Mushiny latent AGV",
-        "seriesDescription": "The later-generation latent AGV, it's only ¥38,000",
+        "seriesDescription": "The later-generation latent AGV",
         "agvKinematic": "DIFF",
         "agvClass": "CARRIER",
         "maxLoadMass": 800,
