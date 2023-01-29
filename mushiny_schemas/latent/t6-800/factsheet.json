@@ -162,16 +162,8 @@
                     "type": "string"
                 }
             },
-            "loadSets": {
-                "type": "array",
-                "description": "list of load-sets that can be handled by the AGV",
-                "items": {
-                    "type": "object",
-                    "required": [
-                        "setName",
-                        "loadType"
-                    ],
-                    "properties": {
+            "loadSets": [
+                {
                         "setName": "SET1",
                         "loadType": "POD800",
                         "loadPositions": [],
@@ -197,9 +189,8 @@
                         "pickTime": 3,
                         "dropTime": 3,
                         "description": "Be careful that the ground is not too wet"
-                    }
                 }
-            }
+            ]
         }
     },
     "localizationParameters": 8
