@@ -8,7 +8,7 @@
     "manufacturer": "mushiny",
     "serialNumber": "1",
     "typeSpecification": {
-        "seriesName": "Mushiny latent AGV",
+        "seriesName": "Mushiny T6 latent AGV",
         "seriesDescription": "The later-generation latent AGV",
         "agvKinematic": "DIFF",
         "agvClass": "CARRIER",
