@@ -80,7 +80,7 @@
             "agvActions": [
                 {
                     "actionType": "5",
-                    "actionDescription": "直接直行",
+                    "actionDescription": "直行",
                     "actionScopes": ["EDGE"],
                     "actionParameters":[
                         {
